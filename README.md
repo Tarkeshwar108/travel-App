@@ -24,8 +24,25 @@
 - Comment & Sub Comments
 - WebView to view source pages
  -->
-## Installation
-Once you have downloaded or cloned this repository, run `npm install` inside the directory.
+## Running locally
+
+As others projects, you will need some requirements to run:
+
+#### Requirements
+
+- [Node.js](https://nodejs.org/) (latest)
+- [React native](https://reactnative.dev/docs/environment-setup) (latest)
+- [Yarn](https://yarnpkg.com/) (latest)
+
+#### How to run
+
+- `git clone git@github.com:Tarkeshwar108/travel-App.git`
+- `yarn install`
+
+Now, you can choose a command to run the project:
+
+- `yarn ios` to run on iOS simulator
+- `yarn android` to run on Android simulator
 <!-- 
 ## Usage
 - [Setting up React Native for Android](https://facebook.github.io/react-native/docs/android-setup.html#content)
