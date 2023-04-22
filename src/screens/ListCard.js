@@ -24,7 +24,7 @@ export default class ListCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               fontSize: 20,
             }}>
@@ -42,7 +42,7 @@ export default class ListCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               fontSize: 20,
             }}>
@@ -58,7 +58,7 @@ export default class ListCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 11,
             }}>
@@ -67,7 +67,7 @@ export default class ListCard extends React.Component {
           <Text
             style={{
               fontSize: 11,
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               paddingLeft: 112,
             }}>
@@ -83,7 +83,7 @@ export default class ListCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               fontSize: 16,
             }}>
@@ -92,7 +92,7 @@ export default class ListCard extends React.Component {
 
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               paddingLeft: 70,
               fontSize: 16,
@@ -103,7 +103,7 @@ export default class ListCard extends React.Component {
 
         <Text
           style={{
-            fontFamily: 'RobotoRegular',
+            fontFamily: 'Roboto-Regular',
             color: '#a2a2db',
             fontSize: 12,
           }}>
@@ -128,7 +128,7 @@ export default class ListCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               fontSize: 16,
             }}>
@@ -136,7 +136,7 @@ export default class ListCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               paddingLeft: 75,
               fontSize: 16,

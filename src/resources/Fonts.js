@@ -1,6 +1,6 @@
 const fontFamilies = {
-  RobotoBold: 'Roboto-Bold',
-  RobotoRegular: 'Roboto-Regular',
+  Roboto-Bold: 'Roboto-Bold',
+  Roboto-Regular: 'Roboto-Regular',
 };
 
 export {fontFamilies};

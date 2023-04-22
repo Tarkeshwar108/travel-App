@@ -37,7 +37,7 @@ export default class Home extends React.Component {
             style={{
               fontSize: 40,
               color: '#522289',
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
             }}>
             Hello
           </Text>
@@ -48,7 +48,7 @@ export default class Home extends React.Component {
               paddingVertical: 10,
               paddingRight: 80,
               lineHeight: 22,
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
             }}>
             Lorem ipsum dolor sit amet, consectetuer adipscing elit.
@@ -136,7 +136,7 @@ export default class Home extends React.Component {
           <Text
             style={{
               color: '#FFF',
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               marginTop: 50,
               fontSize: 17,
             }}>
@@ -181,7 +181,7 @@ export default class Home extends React.Component {
                     }}>
                     <Text
                       style={{
-                        fontFamily: 'RobotoRegular',
+                        fontFamily: 'Roboto-Regular',
                         fontSize: 11,
                         color: '#a2a2db',
                       }}>
@@ -218,7 +218,7 @@ export default class Home extends React.Component {
                     }}>
                     <Text
                       style={{
-                        fontFamily: 'RobotoRegular',
+                        fontFamily: 'Roboto-Regular',
                         fontSize: 11,
                         color: '#a2a2db',
                       }}>
@@ -254,7 +254,7 @@ export default class Home extends React.Component {
                     }}>
                     <Text
                       style={{
-                        fontFamily: 'RobotoRegular',
+                        fontFamily: 'Roboto-Regular',
                         fontSize: 11,
                         color: '#a2a2db',
                       }}>

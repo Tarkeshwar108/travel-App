@@ -23,7 +23,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               fontSize: 20,
             }}>
@@ -40,7 +40,7 @@ export default class ModalCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               fontSize: 20,
             }}>
@@ -56,7 +56,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 11,
             }}>
@@ -64,7 +64,7 @@ export default class ModalCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               paddingLeft: 108,
               fontSize: 12,
@@ -81,7 +81,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               fontSize: 16,
               color: '#522289',
             }}>
@@ -89,7 +89,7 @@ export default class ModalCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               paddingLeft: 70,
               fontSize: 16,
@@ -99,7 +99,7 @@ export default class ModalCard extends React.Component {
         </View>
         <Text
           style={{
-            fontFamily: 'RobotoRegular',
+            fontFamily: 'Roboto-Regular',
             color: '#a2a2db',
             fontSize: 12,
           }}>
@@ -114,7 +114,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 12,
             }}>
@@ -122,7 +122,7 @@ export default class ModalCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 12,
               paddingLeft: 146,
@@ -138,7 +138,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               fontSize: 16,
             }}>
@@ -147,7 +147,7 @@ export default class ModalCard extends React.Component {
 
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
               paddingLeft: 116,
               fontSize: 16,
@@ -173,7 +173,7 @@ export default class ModalCard extends React.Component {
           }}>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 12,
             }}>
@@ -181,7 +181,7 @@ export default class ModalCard extends React.Component {
           </Text>
           <Text
             style={{
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#a2a2db',
               fontSize: 12,
               paddingLeft: 144,
@@ -198,7 +198,7 @@ export default class ModalCard extends React.Component {
           <Text
             style={{
               fontSize: 16,
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               color: '#522289',
             }}>
             Lorem ipsum
@@ -206,7 +206,7 @@ export default class ModalCard extends React.Component {
           <Text
             style={{
               fontSize: 16,
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#4b3ca7',
               paddingLeft: 72,
             }}>
@@ -229,7 +229,7 @@ export default class ModalCard extends React.Component {
           onPress={this.props.onPress}>
           <Text
             style={{
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#FFF',
               textAlign: 'center',
               fontSize: 18,
@@ -245,7 +245,7 @@ export default class ModalCard extends React.Component {
             paddingLeft: 32,
             fontSize: 12,
             marginVertical: 16,
-            fontFamily: 'RobotoRegular',
+            fontFamily: 'Roboto-Regular',
           }}>
           Lorem ipsum dolor sit amet, consectetuer adipscing elit,
         </Text>

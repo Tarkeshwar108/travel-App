@@ -75,7 +75,7 @@ export default class Detail extends React.Component {
           <Text
             style={{
               fontSize: 24,
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#FFF',
             }}>
             NYC
@@ -91,7 +91,7 @@ export default class Detail extends React.Component {
           <Text
             style={{
               fontSize: 24,
-              fontFamily: 'RobotoBold',
+              fontFamily: 'Roboto-Bold',
               color: '#FFF',
             }}>
             IDN
@@ -106,14 +106,14 @@ export default class Detail extends React.Component {
           <Text
             style={{
               color: '#a2a2db',
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
             }}>
             New York
           </Text>
           <Text
             style={{
               color: '#a2a2db',
-              fontFamily: 'RobotoRegular',
+              fontFamily: 'Roboto-Regular',
               paddingLeft: 162,
             }}>
             Indonesia
@@ -123,7 +123,7 @@ export default class Detail extends React.Component {
           style={{
             paddingHorizontal: 40,
             color: '#a2a2db',
-            fontFamily: 'RobotoRegular',
+            fontFamily: 'Roboto-Regular',
           }}>
           20 June, 2021
         </Text>
